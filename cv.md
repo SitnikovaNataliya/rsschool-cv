@@ -9,7 +9,6 @@ My education:
 2005-2009 RGSU, Faculty of Information Technology, bachelor in speciality "Applied mathematics and computer science".  
 
 <code> Plays of works: 
-
 1. Raiffeisenbank
 
 2. Romir
